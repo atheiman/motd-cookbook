@@ -1,0 +1,7 @@
+name 'motd'
+maintainer 'Austin Heiman'
+maintainer_email 'atheimanksu@gmail.com'
+license 'all_rights'
+description 'Installs/Configures motd'
+long_description 'Installs/Configures motd'
+version '0.1.0'
